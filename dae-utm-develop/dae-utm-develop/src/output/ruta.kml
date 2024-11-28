@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Ruta</name>
+            <description>Descripción de la ruta</description>
+            <LineString id="2">
+                <extrude>1</extrude>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-75.39037244182309,6.188149992826178,0.0 -75.39037244182309,6.188149992826178,0.0 -75.39020346358349,6.018644418000572,0.0 -75.39020346358349,6.018644418000572,0.0 -75.39104835478149,6.018073692159408,0.0 -75.39172426773987,6.018073692159408,0.0 -75.39206222421907,6.018073692159408,0.0 -75.39206222421907,6.018073692159408,0.0 -75.39290711541707,6.017502966318244,0.0 -75.39341405013586,6.016932240477081,0.0 -75.39341405013586,6.016932240477081,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
